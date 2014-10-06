@@ -1,0 +1,9 @@
+https://www.inkling.com/read/arduino-cookbook-michael-margolis-2nd/chapter-8/recipe-8-12
+http://www.tigoe.net/pcomp/code/circuits/motors/stepper-motors/
+http://www.scribd.com/doc/234735397/Microtek-ScanMaker-3880-Service-Manual
+http://stanev.org/gl846/lib/exe/fetch.php?media=amm56219_v1.0.pdf
+http://arduino.cc/en/reference/stepper
+
+Arduino Cookbook, Michael Margolis
+
+https://github.com/lagoudiana/Wifly-MQTT/tree/master/Arduino-wifly%20MQTT

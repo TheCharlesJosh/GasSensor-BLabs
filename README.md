@@ -17,3 +17,9 @@ Another addition to the Internet of Things, this time utilizing an MQ-6 Gas Sens
 2. Create a casing for the whole device to appear aesthetically pleasing.
 3. Calibrate the stepper rotation to properly switch on/off the gas valve.
 4. Create a web & mobile application to properly interpret the data, as well as to remotely manipulate the device.
+
+## Library
+Arduino WiFly MQTT Library here: https://github.com/lagoudiana/Wifly-MQTT/tree/master/Arduino-wifly%20MQTT
+
+## Additional Notes
+* RN-XV module set to 115200 baudrate.

@@ -19,7 +19,9 @@ Another addition to the Internet of Things, this time utilizing an MQ-6 Gas Sens
 4. Create a web & mobile application to properly interpret the data, as well as to remotely manipulate the device.
 
 ## Library
-Arduino WiFly MQTT Library here: https://github.com/lagoudiana/Wifly-MQTT/tree/master/Arduino-wifly%20MQTT
+* PubSub Library for Arduino (https://github.com/knolleary/pubsubclient)
+* Sparkfun Shield Library (https://github.com/dpslwk/WiFly)
 
 ## Additional Notes
-* RN-XV module set to 115200 baudrate.
+* RN-XV module MUST be set to 9600 baudrate. (set uart baudrate 9600), else 19200 as declared in the GasSensorWiFi sketch.
+* Refer to GasSensorWifi sketch for everything related to the wifi.

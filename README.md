@@ -25,3 +25,5 @@ Another addition to the Internet of Things, this time utilizing an MQ-6 Gas Sens
 ## Additional Notes
 * RN-XV module MUST be set to 9600 baudrate. (set uart baudrate 9600), else 19200 as declared in the GasSensorWiFi sketch.
 * Refer to GasSensorWifi sketch for everything related to the wifi.
+* Refer to this link (https://cerealkillers.co.uk/2013/which-rn-xv-library-to-use/)
+* PubSub documentation (http://knolleary.net/arduino-client-for-mqtt/api/#PubSubClient)
